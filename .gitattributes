@@ -1,0 +1,19 @@
+* text  eol=false
+
+*.java  diff=java
+*.html  diff=html
+*.py    diff=python
+
+*.xlsx  binary
+*.crt   binary
+*.zip   binary
+*.pdf   binary
+*.png   binary
+*.gif   binary
+*.jpg   binary
+*.bmp   binary
+*.ico   binary
+*.ddp   binary
+*.wav   binary
+*.woff  binary
+*.keystore binary
